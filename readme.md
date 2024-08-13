@@ -57,9 +57,7 @@ This section contains practical examples and exercises to reinforce learning:
 
 Contributions to this repository are welcome! If you have suggestions, improvements, or additional exercises, please fork the repository and submit a pull request. Make sure to follow the contribution guidelines outlined in `CONTRIBUTING.md`.
 
-## License
 
-This repository is licensed under the [MIT License](LICENSE). See the [LICENSE](LICENSE) file for details.
 
 ---
 
