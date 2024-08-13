@@ -57,8 +57,6 @@ This section contains practical examples and exercises to reinforce learning:
 
 Contributions to this repository are welcome! If you have suggestions, improvements, or additional exercises, please fork the repository and submit a pull request. Make sure to follow the contribution guidelines outlined in `CONTRIBUTING.md`.
 
-
-
 ---
 
 Feel free to explore, learn, and enhance your skills in C++ and Data Structures & Algorithms!
