@@ -44,7 +44,7 @@ bool checkSum(vector<int> &vec, int target)
     // }
     // return false;
 
-    // Optimized Code
+    // Optimized Code and works only on sorted array
 
     int left = 0, right = vec.size() - 1;
     while(left<right){
