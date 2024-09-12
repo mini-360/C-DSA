@@ -11,7 +11,6 @@ Welcome to the C++ and DSA Learning Repository! This repository contains resourc
 5. [Examples and Exercises](#examples-and-exercises)
 6. [Resources](#resources)
 7. [Contributing](#contributing)
-8. [License](#license)
 
 ## Introduction
 
