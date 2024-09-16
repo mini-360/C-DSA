@@ -25,7 +25,7 @@ int main(){
     }
         return 0;
 }
-
+// Not working properly
 void squareSortedArray(vector<int> &vec){
     int left = 0, right = vec.size() - 1;
     vector<int> ans;
